@@ -1,5 +1,5 @@
 {
-  "name": "core23/dompdf-bundle",
+  "name": "railken/dompdf-bundle",
   "type": "symfony-bundle",
   "description": "This bundle provides a wrapper for using dompdf inside symfony.",
   "keywords": [
